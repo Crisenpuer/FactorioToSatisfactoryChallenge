@@ -1,0 +1,12 @@
+{
+    "Lua.workspace.userThirdParty": [
+        "c:\\Users\\bartl\\AppData\\Roaming\\Code\\User\\workspaceStorage\\fec667821e8b59a8c1ec3447ab341cd2\\justarandomgeek.factoriomod-debug\\sumneko-3rd"
+    ],
+    "Lua.workspace.checkThirdParty": "ApplyInMemory",
+    "factorio.versions": [
+        {
+            "name": "Home",
+            "factorioPath": "c:\\Users\\bartl\\Factorio\\bin\\x64\\factorio.exe"
+        }
+    ]
+}
