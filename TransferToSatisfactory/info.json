@@ -6,6 +6,6 @@
     "author": "DellAquila, Crisenpuer",
     "factorio_version": "2.0",
     "dependencies": [
-        "mfulib >= 1.0.0"
+        "mfulib >= 0.1.0"
     ]
 }
